@@ -5,18 +5,18 @@ The folloiwing project was carried out as part of the RBE550 Motion Planning cou
 
 ## Setup
 The following libraries need to be installed to run the code:
--numpy 
--matplotlib   
--collections
--scipy
--math
--random
--impedance_modeles 
--time
--progress
--tasks
--matplotlib
--math
+- numpy 
+- matplotlib   
+- collections
+- scipy
+- math
+- random
+- impedance_modeles 
+- time
+- progress
+- tasks
+- matplotlib
+- math
 
 ## Run
 Store all the files within the same folder and run the [gradient_interactive.py](https://github.com/Vram97/Hybrid-Planner/blob/main/gradient_interactive.py) file.
