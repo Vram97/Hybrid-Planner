@@ -21,7 +21,6 @@ The following libraries need to be installed to run the code:
 - time
 - progress
 - tasks
-- matplotlib
 - math
 
 ## Run
